@@ -1,0 +1,1824 @@
+[
+    {
+        "name" : "Elixir",
+        "components" : [
+            {
+                "qualite" : "Pierre",
+                "type" : "Mithril",
+                "quantite" : 3
+            },
+            {
+                "qualite" : "Pierre",
+                "type" : "Force",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Pierre",
+                "type" : "Noir",
+                "quantite" : 1
+            }
+        ],
+        "fait" : false,
+        "fougue" : false,
+        "rang" : "A"
+    },
+    {
+        "name" : "Mégalixir",
+        "components" : [
+            {
+                "qualite" : "Pierre",
+                "type" : "Mithril",
+                "quantite" : 3
+            },
+            {
+                "qualite" : "Pierre",
+                "type" : "Force",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Pierre",
+                "type" : "Noir",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Gemme",
+                "type" : "Sérénité",
+                "quantite" : 1
+            }
+        ],
+        "fait" : false,
+        "fougue" : false,
+        "rang" : "A"
+    },
+    {
+        "name" : "Mégapotion",
+        "components" : [
+            {
+                "qualite" : "Eclat",
+                "type" : "Mithril",
+                "quantite" : 3
+            },
+            {
+                "qualite" : "Eclat",
+                "type" : "Force",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Eclat",
+                "type" : "Ardent",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Eclat",
+                "type" : "Hyalin",
+                "quantite" : 1
+            }
+        ],
+        "fait" : false,
+        "fougue" : false,
+        "rang" : "B"
+    },
+    {
+        "name" : "Mégaéther",
+        "components" : [
+            {
+                "qualite" : "Eclat",
+                "type" : "Mithril",
+                "quantite" : 3
+            },
+            {
+                "qualite" : "Eclat",
+                "type" : "Force",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Eclat",
+                "type" : "Ardent",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Eclat",
+                "type" : "Hyalin",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Pierre",
+                "type" : "Sérénité",
+                "quantite" : 1
+            }
+        ],
+        "fait" : false,
+        "fougue" : false,
+        "rang" : "B"
+    },
+    {
+        "name" : "Reflux",
+        "components" : [
+            {
+                "qualite" : "Eclat",
+                "type" : "Mithril",
+                "quantite" : 3
+            },
+            {
+                "qualite" : "Eclat",
+                "type" : "Noir",
+                "quantite" : 3
+            },
+            {
+                "qualite" : "Eclat",
+                "type" : "Glacial",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Eclat",
+                "type" : "Grondant",
+                "quantite" : 1
+            }
+        ],
+        "fait" : false,
+        "fougue" : false,
+        "rang" : "C"
+    },
+    {
+        "name" : "Mégareflux",
+        "components" : [
+            {
+                "qualite" : "Eclat",
+                "type" : "Mithril",
+                "quantite" : 3
+            },
+            {
+                "qualite" : "Eclat",
+                "type" : "Noir",
+                "quantite" : 3
+            },
+            {
+                "qualite" : "Eclat",
+                "type" : "Glacial",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Eclat",
+                "type" : "Grondant",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Eclat",
+                "type" : "Sérénité",
+                "quantite" : 1
+            }
+        ],
+        "fait" : false,
+        "fougue" : false,
+        "rang" : "C"
+    },
+    {
+        "name" : "Bonus PC",
+        "components" : [
+            {
+                "qualite" : "Gemme",
+                "type" : "Mithril",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Cristal",
+                "type" : "Force",
+                "quantite" : 3
+            },
+            {
+                "qualite" : "Cristal",
+                "type" : "Noir",
+                "quantite" : 3
+            },
+            {
+                "qualite" : "Cristal",
+                "type" : "Glacial",
+                "quantite" : 3
+            }
+        ],
+        "fait" : false,
+        "fougue" : false,
+        "rang" : "S"
+    },
+    {
+        "name" : "Bonus Magie",
+        "components" : [
+            {
+                "qualite" : "Gemme",
+                "type" : "Mithril",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Cristal",
+                "type" : "Force",
+                "quantite" : 3
+            },
+            {
+                "qualite" : "Cristal",
+                "type" : "Noir",
+                "quantite" : 3
+            },
+            {
+                "qualite" : "Cristal",
+                "type" : "Glacial",
+                "quantite" : 3
+            },
+            {
+                "qualite" : "Cristal",
+                "type" : "Sérénité",
+                "quantite" : 1
+            }
+        ],
+        "fait" : false,
+        "fougue" : false,
+        "rang" : "S"
+    },
+    {
+        "name" : "Bonus Défense",
+        "components" : [
+            {
+                "qualite" : "Cristal",
+                "type" : "Mithril",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Cristal",
+                "type" : "Ardent",
+                "quantite" : 3
+            },
+            {
+                "qualite" : "Cristal",
+                "type" : "Grondant",
+                "quantite" : 3
+            },
+            {
+                "qualite" : "Cristal",
+                "type" : "Hyalin",
+                "quantite" : 3
+            }
+        ],
+        "fait" : false,
+        "fougue" : false,
+        "rang" : "S"
+    },
+    {
+        "name" : "Bonus Attaque",
+        "components" : [
+            {
+                "qualite" : "Cristal",
+                "type" : "Mithril",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Cristal",
+                "type" : "Ardent",
+                "quantite" : 3
+            },
+            {
+                "qualite" : "Cristal",
+                "type" : "Grondant",
+                "quantite" : 3
+            },
+            {
+                "qualite" : "Cristal",
+                "type" : "Hyalin",
+                "quantite" : 3
+            },
+            {
+                "qualite" : "Cristal",
+                "type" : "Sérénité",
+                "quantite" : 1
+            }
+        ],
+        "fait" : false,
+        "fougue" : false,
+        "rang" : "S"
+    },
+    {
+        "name" : "Bracelet Brasier X",
+        "components" : [
+            {
+                "qualite" : "Eclat",
+                "type" : "Mithril",
+                "quantite" : 5
+            },
+            {
+                "qualite" : "Pierre",
+                "type" : "Ardent",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Eclat",
+                "type" : "Ardent",
+                "quantite" : 1
+            }
+        ],
+        "fait" : false,
+        "fougue" : false,
+        "rang" : "C"
+    },
+    {
+        "name" : "Bracelet Brasier XX",
+        "components" : [
+            {
+                "qualite" : "Eclat",
+                "type" : "Mithril",
+                "quantite" : 5
+            },
+            {
+                "qualite" : "Pierre",
+                "type" : "Ardent",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Eclat",
+                "type" : "Ardent",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Eclat",
+                "type" : "Sérénité",
+                "quantite" : 1
+            }
+        ],
+        "fait" : false,
+        "fougue" : false,
+        "rang" : "C"
+    },
+    {
+        "name" : "Gourmette Glacier X",
+        "components" : [
+            {
+                "qualite" : "Eclat",
+                "type" : "Mithril",
+                "quantite" : 5
+            },
+            {
+                "qualite" : "Pierre",
+                "type" : "Glacial",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Eclat",
+                "type" : "Glacial",
+                "quantite" : 1
+            }
+        ],
+        "fait" : false,
+        "fougue" : false,
+        "rang" : "C"
+    },
+    {
+        "name" : "Gourmette Glacier XX",
+        "components" : [
+            {
+                "qualite" : "Eclat",
+                "type" : "Mithril",
+                "quantite" : 5
+            },
+            {
+                "qualite" : "Pierre",
+                "type" : "Glacial",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Eclat",
+                "type" : "Glacial",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Eclat",
+                "type" : "Sérénité",
+                "quantite" : 1
+            }
+        ],
+        "fait" : false,
+        "fougue" : false,
+        "rang" : "C"
+    },
+    {
+        "name" : "Jonc Foudre X",
+        "components" : [
+            {
+                "qualite" : "Eclat",
+                "type" : "Mithril",
+                "quantite" : 5
+            },
+            {
+                "qualite" : "Pierre",
+                "type" : "Grondant",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Eclat",
+                "type" : "Grondant",
+                "quantite" : 1
+            }
+        ],
+        "fait" : false,
+        "fougue" : false,
+        "rang" : "C"
+    },
+    {
+        "name" : "Jonc Foudre XX",
+        "components" : [
+            {
+                "qualite" : "Eclat",
+                "type" : "Mithril",
+                "quantite" : 5
+            },
+            {
+                "qualite" : "Pierre",
+                "type" : "Grondant",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Eclat",
+                "type" : "Grondant",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Eclat",
+                "type" : "Sérénité",
+                "quantite" : 1
+            }
+        ],
+        "fait" : false,
+        "fougue" : false,
+        "rang" : "C"
+    },
+    {
+        "name" : "Chevillère sinistre",
+        "components" : [
+            {
+                "qualite" : "Eclat",
+                "type" : "Mithril",
+                "quantite" : 5
+            },
+            {
+                "qualite" : "Pierre",
+                "type" : "Hyalin",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Eclat",
+                "type" : "Hyalin",
+                "quantite" : 1
+            }
+        ],
+        "fait" : false,
+        "fougue" : false,
+        "rang" : "C"
+    },
+    {
+        "name" : "Chevillère du chaos",
+        "components" : [
+            {
+                "qualite" : "Eclat",
+                "type" : "Mithril",
+                "quantite" : 5
+            },
+            {
+                "qualite" : "Pierre",
+                "type" : "Hyalin",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Eclat",
+                "type" : "Hyalin",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Eclat",
+                "type" : "Sérénité",
+                "quantite" : 1
+            }
+        ],
+        "fait" : false,
+        "fougue" : false,
+        "rang" : "C"
+    },
+    {
+        "name" : "Acrisius",
+        "components" : [
+            {
+                "qualite" : "Pierre",
+                "type" : "Mithril",
+                "quantite" : 5
+            },
+            {
+                "qualite" : "Pierre",
+                "type" : "Ardent",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Pierre",
+                "type" : "Glacial",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Pierre",
+                "type" : "Grondant",
+                "quantite" : 1
+            }
+        ],
+        "fait" : false,
+        "fougue" : false,
+        "rang" : "B"
+    },
+    {
+        "name" : "Acrisius +",
+        "components" : [
+            {
+                "qualite" : "Pierre",
+                "type" : "Mithril",
+                "quantite" : 5
+            },
+            {
+                "qualite" : "Pierre",
+                "type" : "Ardent",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Pierre",
+                "type" : "Glacial",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Pierre",
+                "type" : "Grondant",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Pierre",
+                "type" : "Sérénité",
+                "quantite" : 1
+            }
+        ],
+        "fait" : false,
+        "fougue" : false,
+        "rang" : "B"
+    },
+    {
+        "name" : "Poignet de force",
+        "components" : [
+            {
+                "qualite" : "Pierre",
+                "type" : "Mithril",
+                "quantite" : 5
+            },
+            {
+                "qualite" : "Pierre",
+                "type" : "Force",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Pierre",
+                "type" : "Noir",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Pierre",
+                "type" : "Hyalin",
+                "quantite" : 1
+            }
+        ],
+        "fait" : false,
+        "fougue" : false,
+        "rang" : "B"
+    },
+    {
+        "name" : "Poignet",
+        "components" : [
+            {
+                "qualite" : "Pierre",
+                "type" : "Mithril",
+                "quantite" : 5
+            },
+            {
+                "qualite" : "Pierre",
+                "type" : "Force",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Pierre",
+                "type" : "Noir",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Pierre",
+                "type" : "Hyalin",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Pierre",
+                "type" : "Sérénité",
+                "quantite" : 1
+            }
+        ],
+        "fait" : false,
+        "fougue" : false,
+        "rang" : "B"
+    },
+    {
+        "name" : "Escarboucle",
+        "components" : [
+            {
+                "qualite" : "Pierre",
+                "type" : "Mithril",
+                "quantite" : 3
+            },
+            {
+                "qualite" : "Pierre",
+                "type" : "Force",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Eclat",
+                "type" : "Force",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Eclat",
+                "type" : "Noir",
+                "quantite" : 1
+            }
+        ],
+        "fait" : false,
+        "fougue" : false,
+        "rang" : "C"
+    },
+    {
+        "name" : "Diamant",
+        "components" : [
+            {
+                "qualite" : "Pierre",
+                "type" : "Mithril",
+                "quantite" : 3
+            },
+            {
+                "qualite" : "Pierre",
+                "type" : "Force",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Eclat",
+                "type" : "Force",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Eclat",
+                "type" : "Noir",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Eclat",
+                "type" : "Sérénité",
+                "quantite" : 1
+            }
+        ],
+        "fait" : false,
+        "fougue" : false,
+        "rang" : "C"
+    },
+    {
+        "name" : "Chevalière mithril",
+        "components" : [
+            {
+                "qualite" : "Pierre",
+                "type" : "Mithril",
+                "quantite" : 3
+            },
+            {
+                "qualite" : "Pierre",
+                "type" : "Force",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Pierre",
+                "type" : "Noir",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Eclat",
+                "type" : "Noir",
+                "quantite" : 1
+            }
+        ],
+        "fait" : false,
+        "fougue" : false,
+        "rang" : "C"
+    },
+    {
+        "name" : "Chevalière orichalque",
+        "components" : [
+            {
+                "qualite" : "Pierre",
+                "type" : "Mithril",
+                "quantite" : 3
+            },
+            {
+                "qualite" : "Pierre",
+                "type" : "Force",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Pierre",
+                "type" : "Noir",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Eclat",
+                "type" : "Noir",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Eclat",
+                "type" : "Sérénité",
+                "quantite" : 1
+            }
+        ],
+        "fait" : false,
+        "fougue" : false,
+        "rang" : "C"
+    },
+    {
+        "name" : "Boucle de soldat",
+        "components" : [
+            {
+                "qualite" : "Gemme",
+                "type" : "Mithril",
+                "quantite" : 3
+            },
+            {
+                "qualite" : "Gemme",
+                "type" : "Noir",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Gemme",
+                "type" : "Glacial",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Gemme",
+                "type" : "Hyalin",
+                "quantite" : 1
+            }
+        ],
+        "fait" : false,
+        "fougue" : false,
+        "rang" : "B"
+    },
+    {
+        "name" : "Boucle fine lame",
+        "components" : [
+            {
+                "qualite" : "Gemme",
+                "type" : "Mithril",
+                "quantite" : 3
+            },
+            {
+                "qualite" : "Gemme",
+                "type" : "Noir",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Gemme",
+                "type" : "Glacial",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Gemme",
+                "type" : "Hyalin",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Pierre",
+                "type" : "Sérénité",
+                "quantite" : 1
+            }
+        ],
+        "fait" : false,
+        "fougue" : false,
+        "rang" : "B"
+    },
+    {
+        "name" : "Boucle de mage",
+        "components" : [
+            {
+                "qualite" : "Gemme",
+                "type" : "Mithril",
+                "quantite" : 3
+            },
+            {
+                "qualite" : "Gemme",
+                "type" : "Force",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Gemme",
+                "type" : "Ardent",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Gemme",
+                "type" : "Grondant",
+                "quantite" : 1
+            }
+        ],
+        "fait" : false,
+        "fougue" : false,
+        "rang" : "B"
+    },
+    {
+        "name" : "Boucle de pourfendeur",
+        "components" : [
+            {
+                "qualite" : "Gemme",
+                "type" : "Mithril",
+                "quantite" : 3
+            },
+            {
+                "qualite" : "Gemme",
+                "type" : "Force",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Gemme",
+                "type" : "Ardent",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Gemme",
+                "type" : "Grondant",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Pierre",
+                "type" : "Sérénité",
+                "quantite" : 1
+            }
+        ],
+        "fait" : false,
+        "fougue" : false,
+        "rang" : "B"
+    },
+    {
+        "name" : "Anneau étoilé",
+        "components" : [
+            {
+                "qualite" : "Cristal",
+                "type" : "Mithril",
+                "quantite" : 3
+            },
+            {
+                "qualite" : "Cristal",
+                "type" : "Noir",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Gemme",
+                "type" : "Noir",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Pierre",
+                "type" : "Noir",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Eclat",
+                "type" : "Noir",
+                "quantite" : 1
+            }
+        ],
+        "fait" : false,
+        "fougue" : false,
+        "rang" : "A"
+    },
+    {
+        "name" : "Anneau royal",
+        "components" : [
+            {
+                "qualite" : "Cristal",
+                "type" : "Mithril",
+                "quantite" : 3
+            },
+            {
+                "qualite" : "Cristal",
+                "type" : "Noir",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Gemme",
+                "type" : "Noir",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Pierre",
+                "type" : "Noir",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Eclat",
+                "type" : "Noir",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Gemme",
+                "type" : "Sérénité",
+                "quantite" : 1
+            }
+        ],
+        "fait" : false,
+        "fougue" : false,
+        "rang" : "A"
+    },
+    {
+        "name" : "Eclat de mithril",
+        "components" : [
+            {
+                "qualite" : "Pierre",
+                "type" : "Mat",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Eclat",
+                "type" : "Mat",
+                "quantite" : 3
+            },
+            {
+                "qualite" : "Pierre",
+                "type" : "Nébuleux",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Eclat",
+                "type" : "Nébuleux",
+                "quantite" : 3
+            }
+        ],
+        "fait" : false,
+        "fougue" : false,
+        "rang" : "C"
+    },
+    {
+        "name" : "Pierre de mithril",
+        "components" : [
+            {
+                "qualite" : "Pierre",
+                "type" : "Mat",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Eclat",
+                "type" : "Mat",
+                "quantite" : 3
+            },
+            {
+                "qualite" : "Pierre",
+                "type" : "Nébuleux",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Eclat",
+                "type" : "Nébuleux",
+                "quantite" : 3
+            },
+            {
+                "qualite" : "Eclat",
+                "type" : "Sérénité",
+                "quantite" : 1
+            }
+        ],
+        "fait" : false,
+        "fougue" : false,
+        "rang" : "C"
+    },
+    {
+        "name" : "Gemme de mithril",
+        "components" : [
+            {
+                "qualite" : "Cristal",
+                "type" : "Mat",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Gemme",
+                "type" : "Mat",
+                "quantite" : 3
+            },
+            {
+                "qualite" : "Cristal",
+                "type" : "Nébuleux",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Gemme",
+                "type" : "Nébuleux",
+                "quantite" : 3
+            }
+        ],
+        "fait" : false,
+        "fougue" : false,
+        "rang" : "B"
+    },
+    {
+        "name" : "Cristal de mithril",
+        "components" : [
+            {
+                "qualite" : "Cristal",
+                "type" : "Mat",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Gemme",
+                "type" : "Mat",
+                "quantite" : 3
+            },
+            {
+                "qualite" : "Cristal",
+                "type" : "Nébuleux",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Gemme",
+                "type" : "Nébuleux",
+                "quantite" : 3
+            },
+            {
+                "qualite" : "Pierre",
+                "type" : "Sérénité",
+                "quantite" : 1
+            }
+        ],
+        "fait" : false,
+        "fougue" : false,
+        "rang" : "B"
+    },
+    {
+        "name" : "Ruban rouge",
+        "components" : [
+            {
+                "qualite" : "Cristal",
+                "type" : "Mithril",
+                "quantite" : 3
+            },
+            {
+                "qualite" : "Orichalque",
+                "type" : "Divers",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Pierre",
+                "type" : "Mat",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Eclat",
+                "type" : "Mat",
+                "quantite" : 1
+            }
+        ],
+        "fait" : false,
+        "fougue" : false,
+        "rang" : "A"
+    },
+    {
+        "name" : "Ruban bleu",
+        "components" : [
+            {
+                "qualite" : "Cristal",
+                "type" : "Mithril",
+                "quantite" : 3
+            },
+            {
+                "qualite" : "Orichalque",
+                "type" : "Divers",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Pierre",
+                "type" : "Mat",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Eclat",
+                "type" : "Mat",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Gemme",
+                "type" : "Sérénité",
+                "quantite" : 1
+            }
+        ],
+        "fait" : false,
+        "fougue" : false,
+        "rang" : "A"
+    },
+    {
+        "name" : "Amulette lunaire",
+        "components" : [
+            {
+                "qualite" : "Orichalque",
+                "type" : "Divers",
+                "quantite" : 3
+            },
+            {
+                "qualite" : "Cristal",
+                "type" : "Mithril",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Pierre",
+                "type" : "Nébuleux",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Eclat",
+                "type" : "Nébuleux",
+                "quantite" : 1
+            }
+        ],
+        "fait" : false,
+        "fougue" : false,
+        "rang" : "A"
+    },
+    {
+        "name" : "Amulette stellaire",
+        "components" : [
+            {
+                "qualite" : "Orichalque",
+                "type" : "Divers",
+                "quantite" : 3
+            },
+            {
+                "qualite" : "Cristal",
+                "type" : "Mithril",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Pierre",
+                "type" : "Nébuleux",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Eclat",
+                "type" : "Nébuleux",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Gemme",
+                "type" : "Sérénité",
+                "quantite" : 1
+            }
+        ],
+        "fait" : false,
+        "fougue" : false,
+        "rang" : "A"
+    },
+    {
+        "name" : "Save the Queen",
+        "components" : [
+            {
+                "qualite" : "Orichalque",
+                "type" : "Divers",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Cristal",
+                "type" : "Mat",
+                "quantite" : 3
+            },
+            {
+                "qualite" : "Gemme",
+                "type" : "Mat",
+                "quantite" : 5
+            },
+            {
+                "qualite" : "Pierre",
+                "type" : "Mat",
+                "quantite" : 7
+            },
+            {
+                "qualite" : "Eclat",
+                "type" : "Mat",
+                "quantite" : 9
+            }
+        ],
+        "fait" : false,
+        "fougue" : false,
+        "rang" : "S"
+    },
+    {
+        "name" : "Save the Queen +",
+        "components" : [
+            {
+                "qualite" : "Orichalque",
+                "type" : "Divers",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Cristal",
+                "type" : "Mat",
+                "quantite" : 3
+            },
+            {
+                "qualite" : "Gemme",
+                "type" : "Mat",
+                "quantite" : 5
+            },
+            {
+                "qualite" : "Pierre",
+                "type" : "Mat",
+                "quantite" : 7
+            },
+            {
+                "qualite" : "Eclat",
+                "type" : "Mat",
+                "quantite" : 9
+            },
+            {
+                "qualite" : "Cristal",
+                "type" : "Sérénité",
+                "quantite" : 1
+            }
+        ],
+        "fait" : false,
+        "fougue" : false,
+        "rang" : "S"
+    },
+    {
+        "name" : "Save the King",
+        "components" : [
+            {
+                "qualite" : "Orichalque",
+                "type" : "Divers",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Cristal",
+                "type" : "Nébuleux",
+                "quantite" : 3
+            },
+            {
+                "qualite" : "Gemme",
+                "type" : "Nébuleux",
+                "quantite" : 5
+            },
+            {
+                "qualite" : "Pierre",
+                "type" : "Nébuleux",
+                "quantite" : 7
+            },
+            {
+                "qualite" : "Eclat",
+                "type" : "Nébuleux",
+                "quantite" : 9
+            }
+        ],
+        "fait" : false,
+        "fougue" : false,
+        "rang" : "S"
+    },
+    {
+        "name" : "Save the King +",
+        "components" : [
+            {
+                "qualite" : "Orichalque",
+                "type" : "Divers",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Cristal",
+                "type" : "Nébuleux",
+                "quantite" : 3
+            },
+            {
+                "qualite" : "Gemme",
+                "type" : "Nébuleux",
+                "quantite" : 5
+            },
+            {
+                "qualite" : "Pierre",
+                "type" : "Nébuleux",
+                "quantite" : 7
+            },
+            {
+                "qualite" : "Eclat",
+                "type" : "Nébuleux",
+                "quantite" : 9
+            },
+            {
+                "qualite" : "Cristal",
+                "type" : "Sérénité",
+                "quantite" : 1
+            }
+        ],
+        "fait" : false,
+        "fougue" : false,
+        "rang" : "S"
+    },
+    {
+        "name" : "Ultima",
+        "components" : [
+            {
+                "qualite" : "Orichalque +",
+                "type" : "Divers",
+                "quantite" : 13
+            },
+            {
+                "qualite" : "Orichalque",
+                "type" : "Divers",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Cristal",
+                "type" : "Mithril",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Cristal",
+                "type" : "Mat",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Cristal",
+                "type" : "Nébuleux",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Cristal",
+                "type" : "Sérénité",
+                "quantite" : 3
+            }
+        ],
+        "fait" : false,
+        "fougue" : false,
+        "rang" : "S"
+    },
+    {
+        "name" : "Cristal de sérénité",
+        "components" : [
+            {
+                "qualite" : "Cristal",
+                "type" : "Tranquilité",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Cristal",
+                "type" : "Souvenir",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Cristal",
+                "type" : "Vitalité",
+                "quantite" : 9
+            }
+        ],
+        "fait" : false,
+        "fougue" : false,
+        "rang" : "A"
+    },
+    {
+        "name" : "Illusion manifeste",
+        "components" : [
+            {
+                "qualite" : "Cristal",
+                "type" : "Tranquilité",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Cristal",
+                "type" : "Souvenir",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Cristal",
+                "type" : "Vitalité",
+                "quantite" : 9
+            },
+            {
+                "qualite" : "Gemme",
+                "type" : "Sérénité",
+                "quantite" : 1
+            }
+        ],
+        "fait" : false,
+        "fougue" : false,
+        "rang" : "S"
+    },
+    {
+        "name" : "Anneau d'attraction",
+        "components" : [
+            {
+                "qualite" : "Illusion manifeste",
+                "type" : "Divers",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Eclat",
+                "type" : "Souvenir",
+                "quantite" : 3
+            },
+            {
+                "qualite" : "Gemme",
+                "type" : "Vitalité",
+                "quantite" : 3
+            },
+            {
+                "qualite" : "Pierre",
+                "type" : "Vitalité",
+                "quantite" : 5
+            },
+            {
+                "qualite" : "Eclat",
+                "type" : "Vitalité",
+                "quantite" : 9
+            }
+        ],
+        "fait" : false,
+        "fougue" : false,
+        "rang" : "S"
+    },
+    {
+        "name" : "Anneau de fortune",
+        "components" : [
+            {
+                "qualite" : "Illusion manifeste",
+                "type" : "Divers",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Eclat",
+                "type" : "Souvenir",
+                "quantite" : 3
+            },
+            {
+                "qualite" : "Gemme",
+                "type" : "Vitalité",
+                "quantite" : 3
+            },
+            {
+                "qualite" : "Pierre",
+                "type" : "Vitalité",
+                "quantite" : 5
+            },
+            {
+                "qualite" : "Eclat",
+                "type" : "Vitalité",
+                "quantite" : 9
+            },
+            {
+                "qualite" : "Cristal",
+                "type" : "Sérénité",
+                "quantite" : 1
+            }
+        ],
+        "fait" : false,
+        "fougue" : false,
+        "rang" : "S"
+    },
+    {
+        "name" : "Grimoire sombre",
+        "components" : [
+            {
+                "qualite" : "Illusion perdue",
+                "type" : "Divers",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Illusion manifeste",
+                "type" : "Divers",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Cristal",
+                "type" : "Souvenir",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Gemme",
+                "type" : "Sérénité",
+                "quantite" : 3
+            }
+        ],
+        "fait" : false,
+        "fougue" : false,
+        "rang" : "S"
+    },
+    {
+        "name" : "Grimoire sombre +",
+        "components" : [
+            {
+                "qualite" : "Illusion perdue",
+                "type" : "Divers",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Illusion manifeste",
+                "type" : "Divers",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Cristal",
+                "type" : "Souvenir",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Gemme",
+                "type" : "Sérénité",
+                "quantite" : 3
+            },
+            {
+                "qualite" : "Eclat",
+                "type" : "Souvenir",
+                "quantite" : 7
+            },
+            {
+                "qualite" : "Cristal",
+                "type" : "Sérénité",
+                "quantite" : 1
+            }
+        ],
+        "fait" : false,
+        "fougue" : false,
+        "rang" : "S"
+    },
+    {
+        "name" : "Talisman isolant",
+        "components" : [
+            {
+                "qualite" : "Illusion perdue",
+                "type" : "Divers",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Pierre",
+                "type" : "Souvenir",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Gemme",
+                "type" : "Souvenir",
+                "quantite" : 3
+            },
+            {
+                "qualite" : "Pierre",
+                "type" : "Tranquilité",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Gemme",
+                "type" : "Tranquilité",
+                "quantite" : 3
+            }
+        ],
+        "fait" : false,
+        "fougue" : false,
+        "rang" : "S"
+    },
+    {
+        "name" : "Talisman isolant +",
+        "components" : [
+            {
+                "qualite" : "Illusion perdue",
+                "type" : "Divers",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Pierre",
+                "type" : "Souvenir",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Gemme",
+                "type" : "Souvenir",
+                "quantite" : 3
+            },
+            {
+                "qualite" : "Pierre",
+                "type" : "Tranquilité",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Gemme",
+                "type" : "Tranquilité",
+                "quantite" : 3
+            },
+            {
+                "qualite" : "Cristal",
+                "type" : "Sérénité",
+                "quantite" : 1
+            }
+        ],
+        "fait" : false,
+        "fougue" : false,
+        "rang" : "S"
+    },
+    {
+        "name" : "Epanouissement",
+        "components" : [
+            {
+                "qualite" : "Illusion perdue",
+                "type" : "Divers",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Illusion manifeste",
+                "type" : "Divers",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Cristal",
+                "type" : "Tranquilité",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Gemme",
+                "type" : "Sérénité",
+                "quantite" : 3
+            }
+        ],
+        "fait" : false,
+        "fougue" : false,
+        "rang" : "S"
+    },
+    {
+        "name" : "Epanouissement +",
+        "components" : [
+            {
+                "qualite" : "Illusion perdue",
+                "type" : "Divers",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Illusion manifeste",
+                "type" : "Divers",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Cristal",
+                "type" : "Tranquilité",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Gemme",
+                "type" : "Sérénité",
+                "quantite" : 3
+            },
+            {
+                "qualite" : "Cristal",
+                "type" : "Sérénité",
+                "quantite" : 1
+            }
+        ],
+        "fait" : false,
+        "fougue" : false,
+        "rang" : "S"
+    },
+    {
+        "name" : "Centurion",
+        "components" : [
+            {
+                "qualite" : "Illusion perdue",
+                "type" : "Divers",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Cristal",
+                "type" : "Souvenir",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Gemme",
+                "type" : "Souvenir",
+                "quantite" : 3
+            },
+            {
+                "qualite" : "Pierre",
+                "type" : "Souvenir",
+                "quantite" : 5
+            },
+            {
+                "qualite" : "Eclat",
+                "type" : "Souvenir",
+                "quantite" : 7
+            }
+        ],
+        "fait" : false,
+        "fougue" : false,
+        "rang" : "S"
+    },
+    {
+        "name" : "Centurion +",
+        "components" : [
+            {
+                "qualite" : "Illusion perdue",
+                "type" : "Divers",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Cristal",
+                "type" : "Souvenir",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Gemme",
+                "type" : "Souvenir",
+                "quantite" : 3
+            },
+            {
+                "qualite" : "Pierre",
+                "type" : "Souvenir",
+                "quantite" : 5
+            },
+            {
+                "qualite" : "Eclat",
+                "type" : "Souvenir",
+                "quantite" : 7
+            },
+            {
+                "qualite" : "Cristal",
+                "type" : "Sérénité",
+                "quantite" : 1
+            }
+        ],
+        "fait" : false,
+        "fougue" : false,
+        "rang" : "S"
+    },
+    {
+        "name" : "Fierté gelée",
+        "components" : [
+            {
+                "qualite" : "Illusion perdue",
+                "type" : "Divers",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Cristal",
+                "type" : "Tranquilité",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Gemme",
+                "type" : "Tranquilité",
+                "quantite" : 3
+            },
+            {
+                "qualite" : "Pierre",
+                "type" : "Tranquilité",
+                "quantite" : 5
+            },
+            {
+                "qualite" : "Eclat",
+                "type" : "Tranquilité",
+                "quantite" : 7
+            }
+        ],
+        "fait" : false,
+        "fougue" : false,
+        "rang" : "S"
+    },
+    {
+        "name" : "Fierté gelée +",
+        "components" : [
+            {
+                "qualite" : "Illusion perdue",
+                "type" : "Divers",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Cristal",
+                "type" : "Tranquilité",
+                "quantite" : 1
+            },
+            {
+                "qualite" : "Gemme",
+                "type" : "Tranquilité",
+                "quantite" : 3
+            },
+            {
+                "qualite" : "Pierre",
+                "type" : "Tranquilité",
+                "quantite" : 5
+            },
+            {
+                "qualite" : "Eclat",
+                "type" : "Tranquilité",
+                "quantite" : 7
+            },
+            {
+                "qualite" : "Cristal",
+                "type" : "Sérénité",
+                "quantite" : 1
+            }
+        ],
+        "fait" : false,
+        "fougue" : false,
+        "rang" : "S"
+    }
+]
