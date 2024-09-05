@@ -1,9 +1,10 @@
+import string
 from typing import List
 from app.models.ingredient import Ingredient
 
 
 class IngredientPack:
-    def __init__(self, type, elements: List[Ingredient]):
+    def __init__(self, type: string, elements: List[Ingredient]):
         self.type = type
         self.elements = elements
         

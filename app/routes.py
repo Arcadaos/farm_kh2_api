@@ -1,3 +1,4 @@
+from pymongo import UpdateOne
 from app.models.recetteComponent import RecetteComponent
 from app.models.ingredientPack import IngredientPack
 from app.models.recette import Recette
@@ -123,49 +124,35 @@ def get_farm():
         return jsonify(list(farm))
     except Exception as e:
         return jsonify({'error' : str(e)}), 500
-
-@main.route('/farm', methods=['POST'], strict_slashes=False)
-def update_farm():
-    mongo_db = current_app.mongo_db
-    collection = mongo_db.Farm_joueur_KH2
-    
-    data = request.json
-    ingredients = IngredientPack(
-        type=data['type'],
-        elements=data['elements'],
-    )
-    ingredients_dict = ingredients.to_dict()
-    result = collection.update_one(
-        {'type': ingredients_dict['type']},
-        {'$set': ingredients_dict},
-        upsert=True
-        )
-    print(result)
-    return jsonify({
-        'message': 'Avancée du farm mis à jour',
-         'recette' : ingredients_dict
-    }), 200
         
-@main.route('/farms', methods=['POST'], strict_slashes=False)
+@main.route('/farm', methods=['POST'], strict_slashes=False)
 def update_farms():
     mongo_db = current_app.mongo_db
     collection = mongo_db.Farm_joueur_KH2
     
     data_list = request.json
-    ingredients = [IngredientPack(
-        type=data['type'],
-        elements=data['elements'],
-    ) for data in data_list]
+    bulk_operations = []
     
-    ingredients_dict = [ingredient.to_dict() for ingredient in ingredients]
-    result = collection.update_many(
-        {'type': ingredients_dict['type']},
-        {'$set': ingredients_dict},
-        upsert=True
+    for ingredient_data in data_list :
+        ingredient = IngredientPack(
+            type = ingredient_data['type'],
+            elements=ingredient_data['elements']
         )
-    print(result)
+        ingredient_dict = ingredient.to_dict()
+        
+        bulk_operations.append(
+            UpdateOne(
+                {'type': ingredient_dict['type']},
+                {'$set': ingredient_dict},
+                upsert=True
+            )
+        )
+    result = collection.bulk_write(bulk_operations)
     return jsonify({
         'message': 'Avancée du farm mis à jour',
-         'recette' : ingredients_dict
+        'modified_count': result.modified_count,
+        'upserted_count': result.upserted_count,
+        'matched_count': result.matched_count,
+        'ingredients' : data_list
     }), 200
         
