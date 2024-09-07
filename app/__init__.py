@@ -1,7 +1,8 @@
 from flask import Flask
-from flask_pymongo import PyMongo
 from pymongo import MongoClient
 from flask_cors import CORS
+
+from app.routes import register_blueprints
 
 def create_app():
     app = Flask(__name__)
@@ -13,7 +14,6 @@ def create_app():
     app.mongo_client = client
     app.mongo_db = client[app.config['MONGO_DBNAME']]
     
-    from app.routes import main
-    app.register_blueprint(main)
+    register_blueprints(app)
     
     return app
