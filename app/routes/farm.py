@@ -26,7 +26,7 @@ def get_farm():
     mongo_db = current_app.mongo_db
     collection = mongo_db.Farm_joueur_KH2
     try :
-        farm = collection.find({}, {'_id' : 0})
+        farm = collection.find({}, {'_id' : 0}).sort({ 'order': 1})
         return jsonify(list(farm))
     except Exception as e:
         return jsonify({'error' : str(e)}), 500

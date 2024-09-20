@@ -5,22 +5,26 @@
             {
                 "qualite" : "Pierre",
                 "type" : "Mithril",
-                "quantite" : 3
+                "quantite" : 3,
+                "a_farm" : 3
             },
             {
                 "qualite" : "Pierre",
                 "type" : "Force",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Pierre",
                 "type" : "Noir",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             }
         ],
-        "fait" : false,
-        "fougue" : false,
-        "rang" : "A"
+        "fait" : true,
+        "fougue" : true,
+        "rang" : "A",
+        "is_niveau_sup": false
     },
     {
         "name" : "Mégalixir",
@@ -28,27 +32,32 @@
             {
                 "qualite" : "Pierre",
                 "type" : "Mithril",
-                "quantite" : 3
+                "quantite" : 3,
+                "a_farm" : 3
             },
             {
                 "qualite" : "Pierre",
                 "type" : "Force",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Pierre",
                 "type" : "Noir",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Gemme",
                 "type" : "Sérénité",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             }
         ],
         "fait" : false,
         "fougue" : false,
-        "rang" : "A"
+        "rang" : "A",
+        "is_niveau_sup": true
     },
     {
         "name" : "Mégapotion",
@@ -56,27 +65,32 @@
             {
                 "qualite" : "Eclat",
                 "type" : "Mithril",
-                "quantite" : 3
+                "quantite" : 3,
+                "a_farm" : 3
             },
             {
                 "qualite" : "Eclat",
                 "type" : "Force",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Eclat",
                 "type" : "Ardent",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Eclat",
                 "type" : "Hyalin",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             }
         ],
         "fait" : false,
-        "fougue" : false,
-        "rang" : "B"
+        "fougue" : true,
+        "rang" : "B",
+        "is_niveau_sup": false
     },
     {
         "name" : "Mégaéther",
@@ -84,32 +98,38 @@
             {
                 "qualite" : "Eclat",
                 "type" : "Mithril",
-                "quantite" : 3
+                "quantite" : 3,
+                "a_farm" : 3
             },
             {
                 "qualite" : "Eclat",
                 "type" : "Force",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Eclat",
                 "type" : "Ardent",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Eclat",
                 "type" : "Hyalin",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Pierre",
                 "type" : "Sérénité",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             }
         ],
         "fait" : false,
         "fougue" : false,
-        "rang" : "B"
+        "rang" : "B",
+        "is_niveau_sup": true
     },
     {
         "name" : "Reflux",
@@ -117,27 +137,32 @@
             {
                 "qualite" : "Eclat",
                 "type" : "Mithril",
-                "quantite" : 3
+                "quantite" : 3,
+                "a_farm" : 3
             },
             {
                 "qualite" : "Eclat",
                 "type" : "Noir",
-                "quantite" : 3
+                "quantite" : 3,
+                "a_farm" : 3
             },
             {
                 "qualite" : "Eclat",
                 "type" : "Glacial",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Eclat",
                 "type" : "Grondant",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             }
         ],
         "fait" : false,
-        "fougue" : false,
-        "rang" : "C"
+        "fougue" : true,
+        "rang" : "C",
+        "is_niveau_sup": false
     },
     {
         "name" : "Mégareflux",
@@ -145,32 +170,38 @@
             {
                 "qualite" : "Eclat",
                 "type" : "Mithril",
-                "quantite" : 3
+                "quantite" : 3,
+                "a_farm" : 3
             },
             {
                 "qualite" : "Eclat",
                 "type" : "Noir",
-                "quantite" : 3
+                "quantite" : 3,
+                "a_farm" : 3
             },
             {
                 "qualite" : "Eclat",
                 "type" : "Glacial",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Eclat",
                 "type" : "Grondant",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Eclat",
                 "type" : "Sérénité",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             }
         ],
         "fait" : false,
         "fougue" : false,
-        "rang" : "C"
+        "rang" : "C",
+        "is_niveau_sup": true
     },
     {
         "name" : "Bonus PC",
@@ -178,27 +209,32 @@
             {
                 "qualite" : "Gemme",
                 "type" : "Mithril",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Cristal",
                 "type" : "Force",
-                "quantite" : 3
+                "quantite" : 3,
+                "a_farm" : 3
             },
             {
                 "qualite" : "Cristal",
                 "type" : "Noir",
-                "quantite" : 3
+                "quantite" : 3,
+                "a_farm" : 3
             },
             {
                 "qualite" : "Cristal",
                 "type" : "Glacial",
-                "quantite" : 3
+                "quantite" : 3,
+                "a_farm" : 3
             }
         ],
-        "fait" : false,
-        "fougue" : false,
-        "rang" : "S"
+        "fait" : true,
+        "fougue" : true,
+        "rang" : "S",
+        "is_niveau_sup": false
     },
     {
         "name" : "Bonus Magie",
@@ -206,32 +242,38 @@
             {
                 "qualite" : "Gemme",
                 "type" : "Mithril",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Cristal",
                 "type" : "Force",
-                "quantite" : 3
+                "quantite" : 3,
+                "a_farm" : 3
             },
             {
                 "qualite" : "Cristal",
                 "type" : "Noir",
-                "quantite" : 3
+                "quantite" : 3,
+                "a_farm" : 3
             },
             {
                 "qualite" : "Cristal",
                 "type" : "Glacial",
-                "quantite" : 3
+                "quantite" : 3,
+                "a_farm" : 3
             },
             {
                 "qualite" : "Cristal",
                 "type" : "Sérénité",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             }
         ],
         "fait" : false,
         "fougue" : false,
-        "rang" : "S"
+        "rang" : "S",
+        "is_niveau_sup": true
     },
     {
         "name" : "Bonus Défense",
@@ -239,27 +281,32 @@
             {
                 "qualite" : "Cristal",
                 "type" : "Mithril",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Cristal",
                 "type" : "Ardent",
-                "quantite" : 3
+                "quantite" : 3,
+                "a_farm" : 3
             },
             {
                 "qualite" : "Cristal",
                 "type" : "Grondant",
-                "quantite" : 3
+                "quantite" : 3,
+                "a_farm" : 3
             },
             {
                 "qualite" : "Cristal",
                 "type" : "Hyalin",
-                "quantite" : 3
+                "quantite" : 3,
+                "a_farm" : 3
             }
         ],
-        "fait" : false,
+        "fait" : true,
         "fougue" : false,
-        "rang" : "S"
+        "rang" : "S",
+        "is_niveau_sup": false
     },
     {
         "name" : "Bonus Attaque",
@@ -267,32 +314,38 @@
             {
                 "qualite" : "Cristal",
                 "type" : "Mithril",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Cristal",
                 "type" : "Ardent",
-                "quantite" : 3
+                "quantite" : 3,
+                "a_farm" : 3
             },
             {
                 "qualite" : "Cristal",
                 "type" : "Grondant",
-                "quantite" : 3
+                "quantite" : 3,
+                "a_farm" : 3
             },
             {
                 "qualite" : "Cristal",
                 "type" : "Hyalin",
-                "quantite" : 3
+                "quantite" : 3,
+                "a_farm" : 3
             },
             {
                 "qualite" : "Cristal",
                 "type" : "Sérénité",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             }
         ],
         "fait" : false,
         "fougue" : false,
-        "rang" : "S"
+        "rang" : "S",
+        "is_niveau_sup": true
     },
     {
         "name" : "Bracelet Brasier X",
@@ -300,22 +353,26 @@
             {
                 "qualite" : "Eclat",
                 "type" : "Mithril",
-                "quantite" : 5
+                "quantite" : 5,
+                "a_farm" : 5
             },
             {
                 "qualite" : "Pierre",
                 "type" : "Ardent",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Eclat",
                 "type" : "Ardent",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             }
         ],
         "fait" : false,
-        "fougue" : false,
-        "rang" : "C"
+        "fougue" : true,
+        "rang" : "C",
+        "is_niveau_sup": false
     },
     {
         "name" : "Bracelet Brasier XX",
@@ -323,27 +380,32 @@
             {
                 "qualite" : "Eclat",
                 "type" : "Mithril",
-                "quantite" : 5
+                "quantite" : 5,
+                "a_farm" : 5
             },
             {
                 "qualite" : "Pierre",
                 "type" : "Ardent",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Eclat",
                 "type" : "Ardent",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Eclat",
                 "type" : "Sérénité",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             }
         ],
         "fait" : false,
         "fougue" : false,
-        "rang" : "C"
+        "rang" : "C",
+        "is_niveau_sup": true
     },
     {
         "name" : "Gourmette Glacier X",
@@ -351,22 +413,26 @@
             {
                 "qualite" : "Eclat",
                 "type" : "Mithril",
-                "quantite" : 5
+                "quantite" : 5,
+                "a_farm" : 5
             },
             {
                 "qualite" : "Pierre",
                 "type" : "Glacial",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Eclat",
                 "type" : "Glacial",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             }
         ],
         "fait" : false,
-        "fougue" : false,
-        "rang" : "C"
+        "fougue" : true,
+        "rang" : "C",
+        "is_niveau_sup": false
     },
     {
         "name" : "Gourmette Glacier XX",
@@ -374,27 +440,32 @@
             {
                 "qualite" : "Eclat",
                 "type" : "Mithril",
-                "quantite" : 5
+                "quantite" : 5,
+                "a_farm" : 5
             },
             {
                 "qualite" : "Pierre",
                 "type" : "Glacial",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Eclat",
                 "type" : "Glacial",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Eclat",
                 "type" : "Sérénité",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             }
         ],
         "fait" : false,
         "fougue" : false,
-        "rang" : "C"
+        "rang" : "C",
+        "is_niveau_sup": true
     },
     {
         "name" : "Jonc Foudre X",
@@ -402,22 +473,26 @@
             {
                 "qualite" : "Eclat",
                 "type" : "Mithril",
-                "quantite" : 5
+                "quantite" : 5,
+                "a_farm" : 5
             },
             {
                 "qualite" : "Pierre",
                 "type" : "Grondant",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Eclat",
                 "type" : "Grondant",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             }
         ],
         "fait" : false,
-        "fougue" : false,
-        "rang" : "C"
+        "fougue" : true,
+        "rang" : "C",
+        "is_niveau_sup": false
     },
     {
         "name" : "Jonc Foudre XX",
@@ -425,27 +500,32 @@
             {
                 "qualite" : "Eclat",
                 "type" : "Mithril",
-                "quantite" : 5
+                "quantite" : 5,
+                "a_farm" : 5
             },
             {
                 "qualite" : "Pierre",
                 "type" : "Grondant",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Eclat",
                 "type" : "Grondant",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Eclat",
                 "type" : "Sérénité",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             }
         ],
         "fait" : false,
         "fougue" : false,
-        "rang" : "C"
+        "rang" : "C",
+        "is_niveau_sup": true
     },
     {
         "name" : "Chevillère sinistre",
@@ -453,22 +533,26 @@
             {
                 "qualite" : "Eclat",
                 "type" : "Mithril",
-                "quantite" : 5
+                "quantite" : 5,
+                "a_farm" : 5
             },
             {
                 "qualite" : "Pierre",
                 "type" : "Hyalin",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Eclat",
                 "type" : "Hyalin",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             }
         ],
         "fait" : false,
-        "fougue" : false,
-        "rang" : "C"
+        "fougue" : true,
+        "rang" : "C",
+        "is_niveau_sup": false
     },
     {
         "name" : "Chevillère du chaos",
@@ -476,27 +560,32 @@
             {
                 "qualite" : "Eclat",
                 "type" : "Mithril",
-                "quantite" : 5
+                "quantite" : 5,
+                "a_farm" : 5
             },
             {
                 "qualite" : "Pierre",
                 "type" : "Hyalin",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Eclat",
                 "type" : "Hyalin",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Eclat",
                 "type" : "Sérénité",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             }
         ],
         "fait" : false,
         "fougue" : false,
-        "rang" : "C"
+        "rang" : "C",
+        "is_niveau_sup": true
     },
     {
         "name" : "Acrisius",
@@ -504,27 +593,32 @@
             {
                 "qualite" : "Pierre",
                 "type" : "Mithril",
-                "quantite" : 5
+                "quantite" : 5,
+                "a_farm" : 5
             },
             {
                 "qualite" : "Pierre",
                 "type" : "Ardent",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Pierre",
                 "type" : "Glacial",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Pierre",
                 "type" : "Grondant",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             }
         ],
         "fait" : false,
-        "fougue" : false,
-        "rang" : "B"
+        "fougue" : true,
+        "rang" : "B",
+        "is_niveau_sup": false
     },
     {
         "name" : "Acrisius +",
@@ -532,32 +626,38 @@
             {
                 "qualite" : "Pierre",
                 "type" : "Mithril",
-                "quantite" : 5
+                "quantite" : 5,
+                "a_farm" : 5
             },
             {
                 "qualite" : "Pierre",
                 "type" : "Ardent",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Pierre",
                 "type" : "Glacial",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Pierre",
                 "type" : "Grondant",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Pierre",
                 "type" : "Sérénité",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             }
         ],
         "fait" : false,
         "fougue" : false,
-        "rang" : "B"
+        "rang" : "B",
+        "is_niveau_sup": true
     },
     {
         "name" : "Poignet de force",
@@ -565,27 +665,32 @@
             {
                 "qualite" : "Pierre",
                 "type" : "Mithril",
-                "quantite" : 5
+                "quantite" : 5,
+                "a_farm" : 5
             },
             {
                 "qualite" : "Pierre",
                 "type" : "Force",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Pierre",
                 "type" : "Noir",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Pierre",
                 "type" : "Hyalin",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             }
         ],
         "fait" : false,
-        "fougue" : false,
-        "rang" : "B"
+        "fougue" : true,
+        "rang" : "B",
+        "is_niveau_sup": false
     },
     {
         "name" : "Poignet",
@@ -593,32 +698,38 @@
             {
                 "qualite" : "Pierre",
                 "type" : "Mithril",
-                "quantite" : 5
+                "quantite" : 5,
+                "a_farm" : 5
             },
             {
                 "qualite" : "Pierre",
                 "type" : "Force",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Pierre",
                 "type" : "Noir",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Pierre",
                 "type" : "Hyalin",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Pierre",
                 "type" : "Sérénité",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             }
         ],
         "fait" : false,
         "fougue" : false,
-        "rang" : "B"
+        "rang" : "B",
+        "is_niveau_sup": true
     },
     {
         "name" : "Escarboucle",
@@ -626,27 +737,32 @@
             {
                 "qualite" : "Pierre",
                 "type" : "Mithril",
-                "quantite" : 3
+                "quantite" : 3,
+                "a_farm" : 3
             },
             {
                 "qualite" : "Pierre",
                 "type" : "Force",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Eclat",
                 "type" : "Force",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Eclat",
                 "type" : "Noir",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             }
         ],
         "fait" : false,
-        "fougue" : false,
-        "rang" : "C"
+        "fougue" : true,
+        "rang" : "C",
+        "is_niveau_sup": false
     },
     {
         "name" : "Diamant",
@@ -654,32 +770,38 @@
             {
                 "qualite" : "Pierre",
                 "type" : "Mithril",
-                "quantite" : 3
+                "quantite" : 3,
+                "a_farm" : 3
             },
             {
                 "qualite" : "Pierre",
                 "type" : "Force",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Eclat",
                 "type" : "Force",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Eclat",
                 "type" : "Noir",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Eclat",
                 "type" : "Sérénité",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             }
         ],
         "fait" : false,
         "fougue" : false,
-        "rang" : "C"
+        "rang" : "C",
+        "is_niveau_sup": true
     },
     {
         "name" : "Chevalière mithril",
@@ -687,27 +809,32 @@
             {
                 "qualite" : "Pierre",
                 "type" : "Mithril",
-                "quantite" : 3
+                "quantite" : 3,
+                "a_farm" : 3
             },
             {
                 "qualite" : "Pierre",
                 "type" : "Force",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Pierre",
                 "type" : "Noir",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Eclat",
                 "type" : "Noir",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             }
         ],
         "fait" : false,
-        "fougue" : false,
-        "rang" : "C"
+        "fougue" : true,
+        "rang" : "C",
+        "is_niveau_sup": false
     },
     {
         "name" : "Chevalière orichalque",
@@ -715,32 +842,38 @@
             {
                 "qualite" : "Pierre",
                 "type" : "Mithril",
-                "quantite" : 3
+                "quantite" : 3,
+                "a_farm" : 3
             },
             {
                 "qualite" : "Pierre",
                 "type" : "Force",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Pierre",
                 "type" : "Noir",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Eclat",
                 "type" : "Noir",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Eclat",
                 "type" : "Sérénité",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             }
         ],
         "fait" : false,
         "fougue" : false,
-        "rang" : "C"
+        "rang" : "C",
+        "is_niveau_sup": true
     },
     {
         "name" : "Boucle de soldat",
@@ -748,27 +881,32 @@
             {
                 "qualite" : "Gemme",
                 "type" : "Mithril",
-                "quantite" : 3
+                "quantite" : 3,
+                "a_farm" : 3
             },
             {
                 "qualite" : "Gemme",
                 "type" : "Noir",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Gemme",
                 "type" : "Glacial",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Gemme",
                 "type" : "Hyalin",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             }
         ],
         "fait" : false,
-        "fougue" : false,
-        "rang" : "B"
+        "fougue" : true,
+        "rang" : "B",
+        "is_niveau_sup": false
     },
     {
         "name" : "Boucle fine lame",
@@ -776,32 +914,38 @@
             {
                 "qualite" : "Gemme",
                 "type" : "Mithril",
-                "quantite" : 3
+                "quantite" : 3,
+                "a_farm" : 3
             },
             {
                 "qualite" : "Gemme",
                 "type" : "Noir",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Gemme",
                 "type" : "Glacial",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Gemme",
                 "type" : "Hyalin",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Pierre",
                 "type" : "Sérénité",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             }
         ],
         "fait" : false,
         "fougue" : false,
-        "rang" : "B"
+        "rang" : "B",
+        "is_niveau_sup": true
     },
     {
         "name" : "Boucle de mage",
@@ -809,27 +953,32 @@
             {
                 "qualite" : "Gemme",
                 "type" : "Mithril",
-                "quantite" : 3
+                "quantite" : 3,
+                "a_farm" : 3
             },
             {
                 "qualite" : "Gemme",
                 "type" : "Force",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Gemme",
                 "type" : "Ardent",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Gemme",
                 "type" : "Grondant",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             }
         ],
         "fait" : false,
-        "fougue" : false,
-        "rang" : "B"
+        "fougue" : true,
+        "rang" : "B",
+        "is_niveau_sup": false
     },
     {
         "name" : "Boucle de pourfendeur",
@@ -837,32 +986,38 @@
             {
                 "qualite" : "Gemme",
                 "type" : "Mithril",
-                "quantite" : 3
+                "quantite" : 3,
+                "a_farm" : 3
             },
             {
                 "qualite" : "Gemme",
                 "type" : "Force",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Gemme",
                 "type" : "Ardent",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Gemme",
                 "type" : "Grondant",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Pierre",
                 "type" : "Sérénité",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             }
         ],
         "fait" : false,
         "fougue" : false,
-        "rang" : "B"
+        "rang" : "B",
+        "is_niveau_sup": true
     },
     {
         "name" : "Anneau étoilé",
@@ -870,32 +1025,38 @@
             {
                 "qualite" : "Cristal",
                 "type" : "Mithril",
-                "quantite" : 3
+                "quantite" : 3,
+                "a_farm" : 3
             },
             {
                 "qualite" : "Cristal",
                 "type" : "Noir",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Gemme",
                 "type" : "Noir",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Pierre",
                 "type" : "Noir",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Eclat",
                 "type" : "Noir",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             }
         ],
         "fait" : false,
-        "fougue" : false,
-        "rang" : "A"
+        "fougue" : true,
+        "rang" : "A",
+        "is_niveau_sup": false
     },
     {
         "name" : "Anneau royal",
@@ -903,37 +1064,44 @@
             {
                 "qualite" : "Cristal",
                 "type" : "Mithril",
-                "quantite" : 3
+                "quantite" : 3,
+                "a_farm" : 3
             },
             {
                 "qualite" : "Cristal",
                 "type" : "Noir",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Gemme",
                 "type" : "Noir",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Pierre",
                 "type" : "Noir",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Eclat",
                 "type" : "Noir",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Gemme",
                 "type" : "Sérénité",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             }
         ],
         "fait" : false,
         "fougue" : false,
-        "rang" : "A"
+        "rang" : "A",
+        "is_niveau_sup": true
     },
     {
         "name" : "Eclat de mithril",
@@ -941,27 +1109,32 @@
             {
                 "qualite" : "Pierre",
                 "type" : "Mat",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Eclat",
                 "type" : "Mat",
-                "quantite" : 3
+                "quantite" : 3,
+                "a_farm" : 3
             },
             {
                 "qualite" : "Pierre",
                 "type" : "Nébuleux",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Eclat",
                 "type" : "Nébuleux",
-                "quantite" : 3
+                "quantite" : 3,
+                "a_farm" : 3
             }
         ],
         "fait" : false,
-        "fougue" : false,
-        "rang" : "C"
+        "fougue" : true,
+        "rang" : "C",
+        "is_niveau_sup": false
     },
     {
         "name" : "Pierre de mithril",
@@ -969,32 +1142,38 @@
             {
                 "qualite" : "Pierre",
                 "type" : "Mat",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Eclat",
                 "type" : "Mat",
-                "quantite" : 3
+                "quantite" : 3,
+                "a_farm" : 3
             },
             {
                 "qualite" : "Pierre",
                 "type" : "Nébuleux",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Eclat",
                 "type" : "Nébuleux",
-                "quantite" : 3
+                "quantite" : 3,
+                "a_farm" : 3
             },
             {
                 "qualite" : "Eclat",
                 "type" : "Sérénité",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             }
         ],
         "fait" : false,
         "fougue" : false,
-        "rang" : "C"
+        "rang" : "C",
+        "is_niveau_sup": true
     },
     {
         "name" : "Gemme de mithril",
@@ -1002,27 +1181,32 @@
             {
                 "qualite" : "Cristal",
                 "type" : "Mat",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Gemme",
                 "type" : "Mat",
-                "quantite" : 3
+                "quantite" : 3,
+                "a_farm" : 3
             },
             {
                 "qualite" : "Cristal",
                 "type" : "Nébuleux",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Gemme",
                 "type" : "Nébuleux",
-                "quantite" : 3
+                "quantite" : 3,
+                "a_farm" : 3
             }
         ],
         "fait" : false,
-        "fougue" : false,
-        "rang" : "B"
+        "fougue" : true,
+        "rang" : "B",
+        "is_niveau_sup": false
     },
     {
         "name" : "Cristal de mithril",
@@ -1030,32 +1214,38 @@
             {
                 "qualite" : "Cristal",
                 "type" : "Mat",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Gemme",
                 "type" : "Mat",
-                "quantite" : 3
+                "quantite" : 3,
+                "a_farm" : 3
             },
             {
                 "qualite" : "Cristal",
                 "type" : "Nébuleux",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Gemme",
                 "type" : "Nébuleux",
-                "quantite" : 3
+                "quantite" : 3,
+                "a_farm" : 3
             },
             {
                 "qualite" : "Pierre",
                 "type" : "Sérénité",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             }
         ],
         "fait" : false,
         "fougue" : false,
-        "rang" : "B"
+        "rang" : "B",
+        "is_niveau_sup": true
     },
     {
         "name" : "Ruban rouge",
@@ -1063,27 +1253,32 @@
             {
                 "qualite" : "Cristal",
                 "type" : "Mithril",
-                "quantite" : 3
+                "quantite" : 3,
+                "a_farm" : 3
             },
             {
                 "qualite" : "Orichalque",
                 "type" : "Divers",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Pierre",
                 "type" : "Mat",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Eclat",
                 "type" : "Mat",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             }
         ],
         "fait" : false,
-        "fougue" : false,
-        "rang" : "A"
+        "fougue" : true,
+        "rang" : "A",
+        "is_niveau_sup": false
     },
     {
         "name" : "Ruban bleu",
@@ -1091,32 +1286,38 @@
             {
                 "qualite" : "Cristal",
                 "type" : "Mithril",
-                "quantite" : 3
+                "quantite" : 3,
+                "a_farm" : 3
             },
             {
                 "qualite" : "Orichalque",
                 "type" : "Divers",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Pierre",
                 "type" : "Mat",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Eclat",
                 "type" : "Mat",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Gemme",
                 "type" : "Sérénité",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             }
         ],
         "fait" : false,
         "fougue" : false,
-        "rang" : "A"
+        "rang" : "A",
+        "is_niveau_sup": true
     },
     {
         "name" : "Amulette lunaire",
@@ -1124,27 +1325,32 @@
             {
                 "qualite" : "Orichalque",
                 "type" : "Divers",
-                "quantite" : 3
+                "quantite" : 3,
+                "a_farm" : 3
             },
             {
                 "qualite" : "Cristal",
                 "type" : "Mithril",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Pierre",
                 "type" : "Nébuleux",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Eclat",
                 "type" : "Nébuleux",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             }
         ],
         "fait" : false,
-        "fougue" : false,
-        "rang" : "A"
+        "fougue" : true,
+        "rang" : "A",
+        "is_niveau_sup": false
     },
     {
         "name" : "Amulette stellaire",
@@ -1152,32 +1358,38 @@
             {
                 "qualite" : "Orichalque",
                 "type" : "Divers",
-                "quantite" : 3
+                "quantite" : 3,
+                "a_farm" : 3
             },
             {
                 "qualite" : "Cristal",
                 "type" : "Mithril",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Pierre",
                 "type" : "Nébuleux",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Eclat",
                 "type" : "Nébuleux",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Gemme",
                 "type" : "Sérénité",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             }
         ],
         "fait" : false,
         "fougue" : false,
-        "rang" : "A"
+        "rang" : "A",
+        "is_niveau_sup": true
     },
     {
         "name" : "Save the Queen",
@@ -1185,32 +1397,38 @@
             {
                 "qualite" : "Orichalque",
                 "type" : "Divers",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Cristal",
                 "type" : "Mat",
-                "quantite" : 3
+                "quantite" : 3,
+                "a_farm" : 3
             },
             {
                 "qualite" : "Gemme",
                 "type" : "Mat",
-                "quantite" : 5
+                "quantite" : 5,
+                "a_farm" : 5
             },
             {
                 "qualite" : "Pierre",
                 "type" : "Mat",
-                "quantite" : 7
+                "quantite" : 7,
+                "a_farm" : 7
             },
             {
                 "qualite" : "Eclat",
                 "type" : "Mat",
-                "quantite" : 9
+                "quantite" : 9,
+                "a_farm" : 9
             }
         ],
         "fait" : false,
-        "fougue" : false,
-        "rang" : "S"
+        "fougue" : true,
+        "rang" : "S",
+        "is_niveau_sup": false
     },
     {
         "name" : "Save the Queen +",
@@ -1218,37 +1436,44 @@
             {
                 "qualite" : "Orichalque",
                 "type" : "Divers",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Cristal",
                 "type" : "Mat",
-                "quantite" : 3
+                "quantite" : 3,
+                "a_farm" : 3
             },
             {
                 "qualite" : "Gemme",
                 "type" : "Mat",
-                "quantite" : 5
+                "quantite" : 5,
+                "a_farm" : 5
             },
             {
                 "qualite" : "Pierre",
                 "type" : "Mat",
-                "quantite" : 7
+                "quantite" : 7,
+                "a_farm" : 7
             },
             {
                 "qualite" : "Eclat",
                 "type" : "Mat",
-                "quantite" : 9
+                "quantite" : 9,
+                "a_farm" : 9
             },
             {
                 "qualite" : "Cristal",
                 "type" : "Sérénité",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             }
         ],
         "fait" : false,
         "fougue" : false,
-        "rang" : "S"
+        "rang" : "S",
+        "is_niveau_sup": true
     },
     {
         "name" : "Save the King",
@@ -1256,32 +1481,38 @@
             {
                 "qualite" : "Orichalque",
                 "type" : "Divers",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Cristal",
                 "type" : "Nébuleux",
-                "quantite" : 3
+                "quantite" : 3,
+                "a_farm" : 3
             },
             {
                 "qualite" : "Gemme",
                 "type" : "Nébuleux",
-                "quantite" : 5
+                "quantite" : 5,
+                "a_farm" : 5
             },
             {
                 "qualite" : "Pierre",
                 "type" : "Nébuleux",
-                "quantite" : 7
+                "quantite" : 7,
+                "a_farm" : 7
             },
             {
                 "qualite" : "Eclat",
                 "type" : "Nébuleux",
-                "quantite" : 9
+                "quantite" : 9,
+                "a_farm" : 9
             }
         ],
         "fait" : false,
-        "fougue" : false,
-        "rang" : "S"
+        "fougue" : true,
+        "rang" : "S",
+        "is_niveau_sup": false
     },
     {
         "name" : "Save the King +",
@@ -1289,37 +1520,44 @@
             {
                 "qualite" : "Orichalque",
                 "type" : "Divers",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Cristal",
                 "type" : "Nébuleux",
-                "quantite" : 3
+                "quantite" : 3,
+                "a_farm" : 3
             },
             {
                 "qualite" : "Gemme",
                 "type" : "Nébuleux",
-                "quantite" : 5
+                "quantite" : 5,
+                "a_farm" : 5
             },
             {
                 "qualite" : "Pierre",
                 "type" : "Nébuleux",
-                "quantite" : 7
+                "quantite" : 7,
+                "a_farm" : 7
             },
             {
                 "qualite" : "Eclat",
                 "type" : "Nébuleux",
-                "quantite" : 9
+                "quantite" : 9,
+                "a_farm" : 9
             },
             {
                 "qualite" : "Cristal",
                 "type" : "Sérénité",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             }
         ],
         "fait" : false,
         "fougue" : false,
-        "rang" : "S"
+        "rang" : "S",
+        "is_niveau_sup": true
     },
     {
         "name" : "Ultima",
@@ -1327,37 +1565,44 @@
             {
                 "qualite" : "Orichalque +",
                 "type" : "Divers",
-                "quantite" : 13
+                "quantite" : 13,
+                "a_farm" : 13
             },
             {
                 "qualite" : "Orichalque",
                 "type" : "Divers",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Cristal",
                 "type" : "Mithril",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Cristal",
                 "type" : "Mat",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Cristal",
                 "type" : "Nébuleux",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Cristal",
                 "type" : "Sérénité",
-                "quantite" : 3
+                "quantite" : 3,
+                "a_farm" : 3
             }
         ],
         "fait" : false,
-        "fougue" : false,
-        "rang" : "S"
+        "fougue" : true,
+        "rang" : "S",
+        "is_niveau_sup": false
     },
     {
         "name" : "Cristal de sérénité",
@@ -1365,22 +1610,26 @@
             {
                 "qualite" : "Cristal",
                 "type" : "Tranquilité",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Cristal",
                 "type" : "Souvenir",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Cristal",
                 "type" : "Vitalité",
-                "quantite" : 9
+                "quantite" : 9,
+                "a_farm" : 9
             }
         ],
         "fait" : false,
-        "fougue" : false,
-        "rang" : "A"
+        "fougue" : true,
+        "rang" : "A",
+        "is_niveau_sup": false
     },
     {
         "name" : "Illusion manifeste",
@@ -1388,27 +1637,32 @@
             {
                 "qualite" : "Cristal",
                 "type" : "Tranquilité",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Cristal",
                 "type" : "Souvenir",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Cristal",
                 "type" : "Vitalité",
-                "quantite" : 9
+                "quantite" : 9,
+                "a_farm" : 9
             },
             {
                 "qualite" : "Gemme",
                 "type" : "Sérénité",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             }
         ],
         "fait" : false,
-        "fougue" : false,
-        "rang" : "S"
+        "fougue" : true,
+        "rang" : "S",
+        "is_niveau_sup": false
     },
     {
         "name" : "Anneau d'attraction",
@@ -1416,32 +1670,38 @@
             {
                 "qualite" : "Illusion manifeste",
                 "type" : "Divers",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Eclat",
                 "type" : "Souvenir",
-                "quantite" : 3
+                "quantite" : 3,
+                "a_farm" : 3
             },
             {
                 "qualite" : "Gemme",
                 "type" : "Vitalité",
-                "quantite" : 3
+                "quantite" : 3,
+                "a_farm" : 3
             },
             {
                 "qualite" : "Pierre",
                 "type" : "Vitalité",
-                "quantite" : 5
+                "quantite" : 5,
+                "a_farm" : 5
             },
             {
                 "qualite" : "Eclat",
                 "type" : "Vitalité",
-                "quantite" : 9
+                "quantite" : 9,
+                "a_farm" : 9
             }
         ],
         "fait" : false,
-        "fougue" : false,
-        "rang" : "S"
+        "fougue" : true,
+        "rang" : "S",
+        "is_niveau_sup": false
     },
     {
         "name" : "Anneau de fortune",
@@ -1449,37 +1709,44 @@
             {
                 "qualite" : "Illusion manifeste",
                 "type" : "Divers",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Eclat",
                 "type" : "Souvenir",
-                "quantite" : 3
+                "quantite" : 3,
+                "a_farm" : 3
             },
             {
                 "qualite" : "Gemme",
                 "type" : "Vitalité",
-                "quantite" : 3
+                "quantite" : 3,
+                "a_farm" : 3
             },
             {
                 "qualite" : "Pierre",
                 "type" : "Vitalité",
-                "quantite" : 5
+                "quantite" : 5,
+                "a_farm" : 5
             },
             {
                 "qualite" : "Eclat",
                 "type" : "Vitalité",
-                "quantite" : 9
+                "quantite" : 9,
+                "a_farm" : 9
             },
             {
                 "qualite" : "Cristal",
                 "type" : "Sérénité",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             }
         ],
         "fait" : false,
-        "fougue" : false,
-        "rang" : "S"
+        "fougue" : true,
+        "rang" : "S",
+        "is_niveau_sup": false
     },
     {
         "name" : "Grimoire sombre",
@@ -1487,27 +1754,32 @@
             {
                 "qualite" : "Illusion perdue",
                 "type" : "Divers",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Illusion manifeste",
                 "type" : "Divers",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Cristal",
                 "type" : "Souvenir",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Gemme",
                 "type" : "Sérénité",
-                "quantite" : 3
+                "quantite" : 3,
+                "a_farm" : 3
             }
         ],
         "fait" : false,
-        "fougue" : false,
-        "rang" : "S"
+        "fougue" : true,
+        "rang" : "S",
+        "is_niveau_sup": false
     },
     {
         "name" : "Grimoire sombre +",
@@ -1515,37 +1787,44 @@
             {
                 "qualite" : "Illusion perdue",
                 "type" : "Divers",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Illusion manifeste",
                 "type" : "Divers",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Cristal",
                 "type" : "Souvenir",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Gemme",
                 "type" : "Sérénité",
-                "quantite" : 3
+                "quantite" : 3,
+                "a_farm" : 3
             },
             {
                 "qualite" : "Eclat",
                 "type" : "Souvenir",
-                "quantite" : 7
+                "quantite" : 7,
+                "a_farm" : 7
             },
             {
                 "qualite" : "Cristal",
                 "type" : "Sérénité",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             }
         ],
         "fait" : false,
-        "fougue" : false,
-        "rang" : "S"
+        "fougue" : true,
+        "rang" : "S",
+        "is_niveau_sup": false
     },
     {
         "name" : "Talisman isolant",
@@ -1553,32 +1832,38 @@
             {
                 "qualite" : "Illusion perdue",
                 "type" : "Divers",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Pierre",
                 "type" : "Souvenir",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Gemme",
                 "type" : "Souvenir",
-                "quantite" : 3
+                "quantite" : 3,
+                "a_farm" : 3
             },
             {
                 "qualite" : "Pierre",
                 "type" : "Tranquilité",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Gemme",
                 "type" : "Tranquilité",
-                "quantite" : 3
+                "quantite" : 3,
+                "a_farm" : 3
             }
         ],
         "fait" : false,
-        "fougue" : false,
-        "rang" : "S"
+        "fougue" : true,
+        "rang" : "S",
+        "is_niveau_sup": false
     },
     {
         "name" : "Talisman isolant +",
@@ -1586,37 +1871,44 @@
             {
                 "qualite" : "Illusion perdue",
                 "type" : "Divers",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Pierre",
                 "type" : "Souvenir",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Gemme",
                 "type" : "Souvenir",
-                "quantite" : 3
+                "quantite" : 3,
+                "a_farm" : 3
             },
             {
                 "qualite" : "Pierre",
                 "type" : "Tranquilité",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Gemme",
                 "type" : "Tranquilité",
-                "quantite" : 3
+                "quantite" : 3,
+                "a_farm" : 3
             },
             {
                 "qualite" : "Cristal",
                 "type" : "Sérénité",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             }
         ],
         "fait" : false,
-        "fougue" : false,
-        "rang" : "S"
+        "fougue" : true,
+        "rang" : "S",
+        "is_niveau_sup": false
     },
     {
         "name" : "Epanouissement",
@@ -1624,27 +1916,32 @@
             {
                 "qualite" : "Illusion perdue",
                 "type" : "Divers",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Illusion manifeste",
                 "type" : "Divers",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Cristal",
                 "type" : "Tranquilité",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Gemme",
                 "type" : "Sérénité",
-                "quantite" : 3
+                "quantite" : 3,
+                "a_farm" : 3
             }
         ],
         "fait" : false,
-        "fougue" : false,
-        "rang" : "S"
+        "fougue" : true,
+        "rang" : "S",
+        "is_niveau_sup": false
     },
     {
         "name" : "Epanouissement +",
@@ -1652,32 +1949,38 @@
             {
                 "qualite" : "Illusion perdue",
                 "type" : "Divers",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Illusion manifeste",
                 "type" : "Divers",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Cristal",
                 "type" : "Tranquilité",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Gemme",
                 "type" : "Sérénité",
-                "quantite" : 3
+                "quantite" : 3,
+                "a_farm" : 3
             },
             {
                 "qualite" : "Cristal",
                 "type" : "Sérénité",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             }
         ],
         "fait" : false,
-        "fougue" : false,
-        "rang" : "S"
+        "fougue" : true,
+        "rang" : "S",
+        "is_niveau_sup": false
     },
     {
         "name" : "Centurion",
@@ -1685,32 +1988,38 @@
             {
                 "qualite" : "Illusion perdue",
                 "type" : "Divers",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Cristal",
                 "type" : "Souvenir",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Gemme",
                 "type" : "Souvenir",
-                "quantite" : 3
+                "quantite" : 3,
+                "a_farm" : 3
             },
             {
                 "qualite" : "Pierre",
                 "type" : "Souvenir",
-                "quantite" : 5
+                "quantite" : 5,
+                "a_farm" : 5
             },
             {
                 "qualite" : "Eclat",
                 "type" : "Souvenir",
-                "quantite" : 7
+                "quantite" : 7,
+                "a_farm" : 7
             }
         ],
         "fait" : false,
-        "fougue" : false,
-        "rang" : "S"
+        "fougue" : true,
+        "rang" : "S",
+        "is_niveau_sup": false
     },
     {
         "name" : "Centurion +",
@@ -1718,37 +2027,44 @@
             {
                 "qualite" : "Illusion perdue",
                 "type" : "Divers",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Cristal",
                 "type" : "Souvenir",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Gemme",
                 "type" : "Souvenir",
-                "quantite" : 3
+                "quantite" : 3,
+                "a_farm" : 3
             },
             {
                 "qualite" : "Pierre",
                 "type" : "Souvenir",
-                "quantite" : 5
+                "quantite" : 5,
+                "a_farm" : 5
             },
             {
                 "qualite" : "Eclat",
                 "type" : "Souvenir",
-                "quantite" : 7
+                "quantite" : 7,
+                "a_farm" : 7
             },
             {
                 "qualite" : "Cristal",
                 "type" : "Sérénité",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             }
         ],
         "fait" : false,
-        "fougue" : false,
-        "rang" : "S"
+        "fougue" : true,
+        "rang" : "S",
+        "is_niveau_sup": false
     },
     {
         "name" : "Fierté gelée",
@@ -1756,32 +2072,38 @@
             {
                 "qualite" : "Illusion perdue",
                 "type" : "Divers",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Cristal",
                 "type" : "Tranquilité",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Gemme",
                 "type" : "Tranquilité",
-                "quantite" : 3
+                "quantite" : 3,
+                "a_farm" : 3
             },
             {
                 "qualite" : "Pierre",
                 "type" : "Tranquilité",
-                "quantite" : 5
+                "quantite" : 5,
+                "a_farm" : 5
             },
             {
                 "qualite" : "Eclat",
                 "type" : "Tranquilité",
-                "quantite" : 7
+                "quantite" : 7,
+                "a_farm" : 7
             }
         ],
         "fait" : false,
-        "fougue" : false,
-        "rang" : "S"
+        "fougue" : true,
+        "rang" : "S",
+        "is_niveau_sup": false
     },
     {
         "name" : "Fierté gelée +",
@@ -1789,36 +2111,43 @@
             {
                 "qualite" : "Illusion perdue",
                 "type" : "Divers",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Cristal",
                 "type" : "Tranquilité",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             },
             {
                 "qualite" : "Gemme",
                 "type" : "Tranquilité",
-                "quantite" : 3
+                "quantite" : 3,
+                "a_farm" : 3
             },
             {
                 "qualite" : "Pierre",
                 "type" : "Tranquilité",
-                "quantite" : 5
+                "quantite" : 5,
+                "a_farm" : 5
             },
             {
                 "qualite" : "Eclat",
                 "type" : "Tranquilité",
-                "quantite" : 7
+                "quantite" : 7,
+                "a_farm" : 7
             },
             {
                 "qualite" : "Cristal",
                 "type" : "Sérénité",
-                "quantite" : 1
+                "quantite" : 1,
+                "a_farm" : 1
             }
         ],
         "fait" : false,
-        "fougue" : false,
-        "rang" : "S"
+        "fougue" : true,
+        "rang" : "S",
+        "is_niveau_sup": false
     }
 ]
